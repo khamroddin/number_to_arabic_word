@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+  require 'number_to_arabic_word'
+  
+  NumberToArabicWord.process(234)
+    =>  " مائتين و أربعه و ثلاثون "
 
 ## Development
 
